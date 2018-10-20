@@ -16,6 +16,6 @@ U = '\033[4m'
 O = '\033[33m'
 
 def info():
-VERSION = B+'3.0'+E
+VERSION = B+'1.0'+E
 AUTHOR = B+'varoblakjan'+E
 print("""
